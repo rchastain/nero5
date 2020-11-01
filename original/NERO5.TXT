@@ -1,0 +1,23 @@
+
+                    ******   NERO 5 - 25.08.1999  ******
+
+Move your pieces with ARROW KEYS and ENTER.
+
+You can INTERRUPT Nero's search by pressing SPACE.
+                                                 
+During play Nero writes down the played moves into file 'WEPLAYED.TXT'
+so you can watch them later. (Or view with some PGN reading program.)
+
+SETUP has HIDDEN FEATURE: Press '?' (or F5) in setup, and you get a RANDOM
+position (sometimes illegal). Press '?' again to get a new random position 
+etc... until you continue with 'W' or 'B' giving the side to move next.
+
+MATE SOLVING (selected in setup) looks for shortest possible mate. (And 
+shows you possible duals too.) Often a mate is found much quicker without 
+mate solving, but ordinary search doesn't necessarily find the shortest 
+mate. I recommend this mate solving feature for mate in 2..4 problems.
+(Except Nero won't solve yet problems where under promotions are needed.)
+
+     Feedback : <huikari@math.jyu.fi>
+      Updates : http://www.math.jyu.fi/~huikari/NERO5.ZIP
+More programs : http://www.math.jyu.fi/~huikari/download.html
