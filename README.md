@@ -10,3 +10,6 @@ The original program was written for the Turbo Pascal compiler and the DOS opera
 
 The program has been retouched by Roland Chastain, to be compilable with the Free Pascal compiler, and executable on Linux and on Windows.
 
+## Screenshot
+
+![Screenshot](screenshot.png)
